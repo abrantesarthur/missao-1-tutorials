@@ -30,3 +30,20 @@ h4 {
 .first-section h4 {
 	margin-bottom: 30px;
 }
+
+@media (max-width: 992px) {
+	.first-section img {
+		display: none;
+	}
+
+	.first-section {
+		padding-bottom: 150px;
+	}
+}
+
+@media (max-width: 600px) {
+	.first-section {
+		padding-top: 150px;
+	}
+}
+
