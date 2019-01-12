@@ -1,3 +1,16 @@
+* {
+	font-family: 'Varela Round';
+}
+
+h1 {
+	font-size: 40px;
+	text-transform: uppercase;
+}
+
+h4 {
+	font-size: 14px;
+}
+
 .btn {
 	background-color: #373737;
 	border-radius: 38px;
